@@ -27,8 +27,8 @@ Der Aufbau der CAMPLA Infrastruktur in Verbindung mit dem Lernstick dient der Vo
 - Marcel Steiner (marcel.steiner@fhnw.ch)
 
 **Entwicklung**
-- Lernstick: Ronny Standtke (ronny.standtke@bfh.ch) 
-- CAMPLA: Simon Kaspar (simon.kaspar@fhnw.ch)
+- **Lernstick:** Ronny Standtke (ronny.standtke@bfh.ch) 
+- **CAMPLA:** Simon Kaspar (simon.kaspar@fhnw.ch)
 
 **Weiterführende Links**
 - [Weitere Information zum Lernstick](https://www.digitale-nachhaltigkeit.unibe.ch/dienstleistungen/lernstick/index_ger.html)
