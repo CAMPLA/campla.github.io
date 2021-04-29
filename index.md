@@ -24,6 +24,7 @@ Der Aufbau der CAMPLA Infrastruktur in Verbindung mit dem Lernstick dient der Vo
 **Projektverantwortliche**
 - Niklaus Lang (niklaus.lang@fhnw.ch)
 - Norbert Hofmann (norbert.hofmann@fhnw.ch)
+- Marcel Steiner (marcel.steiner@fhnw.ch)
 
 **Entwicklung**
 - Lernstick: Ronny Standtke (ronny.standtke@bfh.ch) 
