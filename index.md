@@ -21,8 +21,6 @@ In Abbildung 1 ist der Aufbau der CAMPLA Infrastruktur zu sehen. Bei einer Prüf
 
 Der Aufbau der CAMPLA Infrastruktur in Verbindung mit dem Lernstick dient der Vorbeugung von Betrugsversuchen. Die Verbindung zum Internet kann individuell konfiguriert oder ausgeschlossen werden. Dadurch wird die digitale Kommunikation zwischen den Studenten*innen erheblich erschwert. Durch die Signierung der Dateien nach dem Abschluss einer Prüfung wird die Rekurssicherheit der Prüfung sichergestellt.  
 
-[Weitere Information zum Lernstick](https://www.digitale-nachhaltigkeit.unibe.ch/dienstleistungen/lernstick/index_ger.html)
-
 **Projektverantwortliche**
 - Niklaus Lang (niklaus.lang@fhnw.ch)
 - Norbert Hofmann (norbert.hofmann@fhnw.ch)
@@ -30,6 +28,10 @@ Der Aufbau der CAMPLA Infrastruktur in Verbindung mit dem Lernstick dient der Vo
 **Entwicklung**
 - Lernstick: Ronny Standtke (ronny.standtke@bfh.ch) 
 - CAMPLA: Simon Kaspar (simon.kaspar@fhnw.ch)
+
+**Weiterführende Links
+- [Weitere Information zum Lernstick](https://www.digitale-nachhaltigkeit.unibe.ch/dienstleistungen/lernstick/index_ger.html)
+- [CAMPLA SWITCHtube Kanal](https://tube.switch.ch/channels/65fa27a6)
 
 **Beteiligte Hochschulen**
  <p align="center">
