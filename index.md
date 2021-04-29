@@ -1,4 +1,4 @@
-<img src="campla/assets/images/studentExaminationSetup.png" class="inline"/>
+<img src="/assets/images/studentExaminationSetup.png" class="inline"/>
 
 CAMPLA wird an der Fachhochschule Nordwestschweiz in einem interdisziplinären Team entwickelt. Es steht für «Cloud Assessment Management Platform».  Zusammen mit dem Lernstick bildet CAMPLA ein ganzheitliches System zur Durchführung von digitalen Prüfungen. 
 
