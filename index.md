@@ -5,6 +5,7 @@
 </p>
 
 
+
 CAMPLA wird an der Fachhochschule Nordwestschweiz in einem interdisziplinären Team entwickelt. Es steht für «Cloud Assessment Management Platform».  Zusammen mit dem Lernstick bildet CAMPLA ein ganzheitliches System zur Durchführung von digitalen Prüfungen. 
 
 Das Ziel ist den Dozenten\*innen die Möglichkeit zu geben, Prüfungen auf den Notebooks der Studenten\*innen im Klassenraum oder einem Prüfungsraum durchzuführen. Dadurch entstehen neue Möglichkeiten zur Kompetenzüberprüfung und es kann mit neuen Prüfungsformen experimentiert werden. Zusätzlich wird dadurch sichergestellt, dass alle Studierenden unabhängig von ihrem eigenen Gerät dieselben Voraussetzungen für die Prüfung haben. 
