@@ -36,11 +36,13 @@ Der Aufbau der CAMPLA Infrastruktur in Verbindung mit dem Lernstick dient der Vo
 - [CAMPLA SWITCHtube Kanal](https://tube.switch.ch/channels/65fa27a6)
 
 **Anfragen**
+
 Bitte senden Sie Afragen zu CAMPLA/Lernstick an die folgende E-Mail Adresse:
 
 campla.services@fhnw.ch
 
 **Beteiligte Hochschulen**
+
  <p align="center">
   <img src="/assets/images/logo-fhnw.jpg" style="margin-right:150px;" height="80" />
   <img src="/assets/images/logo-uni-kiel.png" height="80"/>
