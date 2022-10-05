@@ -37,7 +37,7 @@ Der Aufbau der CAMPLA Infrastruktur in Verbindung mit dem Lernstick dient der Vo
 
 **Anfragen**
 
-Bitte senden Sie Afragen zu CAMPLA/Lernstick an die folgende E-Mail Adresse:
+Bitte senden Sie Anfragen zu CAMPLA/Lernstick an die folgende E-Mail Adresse:
 
 campla.services@fhnw.ch
 
