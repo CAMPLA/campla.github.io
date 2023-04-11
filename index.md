@@ -23,6 +23,7 @@ In Abbildung 1 ist der Aufbau der CAMPLA Infrastruktur zu sehen. Bei einer Prüf
 Der Aufbau der CAMPLA Infrastruktur in Verbindung mit dem Lernstick dient der Vorbeugung von Betrugsversuchen. Die Verbindung zum Internet kann individuell konfiguriert oder ausgeschlossen werden. Dadurch wird die digitale Kommunikation zwischen den Studenten*innen erheblich erschwert. Durch die Signierung der Dateien nach dem Abschluss einer Prüfung wird die Rekurssicherheit der Prüfung sichergestellt. Darüber hinaus wird an der Möglichkeit gearbeitet, das verwendete Prüfungssystem durch den integrierten Sicherheitschip (TPM) abzusichern. Dieses Verfahren nennt sich Remote Attestation und stellt sicher, dass das gestartet Prüfungssystem nicht manipuliert wurde. Dies erschwert, das Betrügen, während einer Prüfung nochmals erheblich.
 
 **Anwendungsbeispiele**
+
 ![Use Cases FHNW](/assets/images/use-cases-fhnw.png)
 
 **Projektverantwortliche**
@@ -49,7 +50,6 @@ Der Aufbau der CAMPLA Infrastruktur in Verbindung mit dem Lernstick dient der Vo
 Bitte senden Sie Anfragen zu CAMPLA/Lernstick an die folgende E-Mail Adresse:
 
 [campla.services@fhnw.ch](mailto:campla.services@fhnw.ch)
-
 
 **Beteiligte Hochschulen**
 
