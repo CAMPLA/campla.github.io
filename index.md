@@ -50,6 +50,7 @@ Bitte senden Sie Anfragen zu CAMPLA/Lernstick an die folgende E-Mail Adresse:
 
 [campla.services@fhnw.ch](mailto:campla.services@fhnw.ch)
 
+
 **Beteiligte Hochschulen**
 
  <p align="center">
