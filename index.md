@@ -58,3 +58,4 @@ Bitte senden Sie Anfragen zu CAMPLA/Lernstick an die folgende E-Mail Adresse:
   <img src="/assets/images/logo-bfh.png" style="margin-right:150px;" height="95"/>
   <img src="/assets/images/logo-uni-kiel.png" height="60"/>
 </p>
+
