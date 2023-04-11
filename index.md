@@ -60,7 +60,7 @@ Bitte senden Sie Anfragen zu CAMPLA/Lernstick an die folgende E-Mail Adresse:
 **Beteiligte Hochschulen**
 
  <p align="center">
-  <img src="/assets/images/logo-fhnw.jpg" style="margin-right:150px;" height="80" />
-  <img src="/assets/images/logo-bfh.png" height="80"/>
-  <img src="/assets/images/logo-uni-kiel.png" height="80"/>
+  <img src="/assets/images/logo-fhnw.jpg" style="margin-right:150px;" height="60" />
+  <img src="/assets/images/logo-bfh.png" style="margin-right:150px;" height="95"/>
+  <img src="/assets/images/logo-uni-kiel.png" height="60"/>
 </p>
