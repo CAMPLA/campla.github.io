@@ -16,9 +16,9 @@ Bei CAMPLA besteht die Möglichkeit Prüfungen mit oder ohne Unterlagen durchzuf
 
 In Abbildung 1 ist der Aufbau der CAMPLA Infrastruktur zu sehen. Bei einer Prüfung wird auf den Geräten der Studenten\*innen mit dem Lernstick ein Linux Betriebssystem gestartet. In dieser Umgebung loggen sich die Studenten\*innen über den Webbrowser bei CAMPLA ein. Nachdem sie den Code für ihre Prüfung eingegeben haben, wird die Verbindung mit einem virtuellen Computer in der Cloud hergestellt. Auf diesem Computer läuft Windows mit den benötigten Programmen für die Prüfung. Hier findet sich auch die Prüfung, die Prüfungsunterlagen der Dozenten\*innen und die Unterlagen der Studenten\*innen, falls diese im Vorfeld zugelassen und hochgeladen wurden. 
 
-![Abbildung 1: Systemübersicht](/assets/images/studentExaminationSetup.png)
+![Abbildung 1: Systemlandschaft](/assets/images/studentExaminationSetupDeutsch.png)
 
-<span style="font-size: 8pt;color: gray">Abbildung 1: Systemübersicht</span>
+<span style="font-size: 8pt;color: gray">Abbildung 1: Systemlandschaft</span>
 
 Der Aufbau der CAMPLA Infrastruktur in Verbindung mit dem Lernstick dient der Vorbeugung von Betrugsversuchen. Die Verbindung zum Internet kann individuell konfiguriert oder ausgeschlossen werden. Dadurch wird die digitale Kommunikation zwischen den Studenten*innen erheblich erschwert. Durch die Signierung der Dateien nach dem Abschluss einer Prüfung wird die Rekurssicherheit der Prüfung sichergestellt. Darüber hinaus wird an der Möglichkeit gearbeitet, das verwendete Prüfungssystem durch den integrierten Sicherheitschip (TPM) abzusichern. Dieses Verfahren nennt sich Remote Attestation und stellt sicher, dass das gestartet Prüfungssystem nicht manipuliert wurde. Dies erschwert, das Betrügen, während einer Prüfung nochmals erheblich.
 
