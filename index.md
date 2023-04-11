@@ -23,14 +23,7 @@ In Abbildung 1 ist der Aufbau der CAMPLA Infrastruktur zu sehen. Bei einer Prüf
 Der Aufbau der CAMPLA Infrastruktur in Verbindung mit dem Lernstick dient der Vorbeugung von Betrugsversuchen. Die Verbindung zum Internet kann individuell konfiguriert oder ausgeschlossen werden. Dadurch wird die digitale Kommunikation zwischen den Studenten*innen erheblich erschwert. Durch die Signierung der Dateien nach dem Abschluss einer Prüfung wird die Rekurssicherheit der Prüfung sichergestellt. Darüber hinaus wird an der Möglichkeit gearbeitet, das verwendete Prüfungssystem durch den integrierten Sicherheitschip (TPM) abzusichern. Dieses Verfahren nennt sich Remote Attestation und stellt sicher, dass das gestartet Prüfungssystem nicht manipuliert wurde. Dies erschwert, das Betrügen, während einer Prüfung nochmals erheblich.
 
 **Anwendungsbeispiele**
-| Hochschule | Kompetenzen | Tools/LMS | Status |
-|--|--|--|--|
-| **Hochschule für Wirtschaft** | Studierende der Wirtschaft lernen den Umgang mit Daten, können diese mit für Geschäftsanalysen geeigneten Tools analysieren und datengetriebene Entscheidung unterstützen. | Power Bi, Excel | Bereits mit CAMPLA/Lernstick durchgeführt |
-| **Hochschule für Life Science** | Studierende der Hochschule für Life Science können Aufnahmen der Mikroskopie sowie anderer bildgebenden Verfahren analysieren und beurteilen. | Matlab, Moodle | Bereits mit CAMPLA/Lernstick durchgeführt |
-| **Pädagogische Hochschule** | Studierende der Pädagogischen Hochschule können eine Lese- Hör- und Sprachverständnisprüfung in ihrem eigenen Tempo (d.h. asynchrone Start/Stop-Möglichkeiten von Audio- und Videosequenzen) lösen. | Moodle (Lesen, Sprechen, Hören) | Bereits mit CAMPLA/Lernstick durchgeführt |
-| **Hochschule für Technik** | Studierende der Technik können reale elektronische Regelungen modellieren und simulieren. | Matlab, Scilab | Bereits mit CAMPLA/Lernstick durchgeführt |
-| **Hochschule für Gestaltung und Kunst** | Studierende der Hochschule für Gestaltung und Kunst können gezielt Bildmaterial bearbeiten und weiterentwickeln. | Bildverarbeitungsprogramme | Idee für Durchführung mit CAMPLA/Lernstick |
-| **Hochschule für Musik** | Studierende der Hochschule für Musik können passend zu einem Thema ein Jingle entwerfen. | Aufnahme sowie Audioverarbeitungsprogramme | Idee für Durchführung mit CAMPLA/Lernstick |
+![Use Cases FHNW](/assets/images/use-cases-fhnw.png)
 
 **Projektverantwortliche**
 - Niklaus Lang (niklaus.lang@fhnw.ch)
