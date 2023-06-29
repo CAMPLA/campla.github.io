@@ -1,4 +1,7 @@
-theme: jekyll-theme-cayman
 title: CAMPLA / Lernstick
-description: Ein ganzheitliches System zur Durchführung von digitalen Prüfungen
 logo: /assets/images/logo-trans-256x256.png
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+github:
+  is_project_page: false

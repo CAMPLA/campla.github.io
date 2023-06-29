@@ -1,4 +1,7 @@
-
+---
+title: CAMPLA / Lernstick
+description: Ein ganzheitliches System zur Durchführung von digitalen Prüfungen
+---
  <p align="center">
   <img src="/assets/images/logo-trans-128x128.png" style="margin-right:150px;"/>
   <img src="/assets/images/lernstick.png" width="128"/>
