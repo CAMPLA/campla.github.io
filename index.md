@@ -31,8 +31,8 @@ Der Aufbau der CAMPLA Infrastruktur in Verbindung mit dem Lernstick dient der Vo
 | **Hochschule für Life Sciences** | Studierende der Hochschule für Life Sciences können Aufnahmen der Mikroskopie sowie anderer bildgebenden Verfahren analysieren und beurteilen. | Matlab, Moodle | Bereits mit CAMPLA/Lernstick durchgeführt |
 | **Pädagogische Hochschule** | Studierende der Pädagogischen Hochschule können eine Lese-, Hör- und Sprachverständnisprüfung in ihrem eigenen Tempo (d.h. asynchrone Start/Stop-Möglichkeiten von Audio- und Videosequenzen) lösen. | Moodle (Lesen, Sprechen, Hören) | Bereits mit CAMPLA/Lernstick durchgeführt |
 | **Hochschule für Technik** | Studierende der Technik können reale elektronische Regelungen modellieren und simulieren. | Matlab, Scilab | Bereits mit CAMPLA/Lernstick durchgeführt |
-| **Hochschule für Gestaltung und Kunst** | Studierende der Hochschule für Gestaltung und Kunst können gezielt Bildmaterial bearbeiten und weiterentwickeln. | Bildverarbeitungsprogramme | dee für Durchführung mit CAMPLA/Lernstick |
-| **Hochschule für Musik** | Studierende der Hochschule für Musik können passend zu einem Thema ein Jingle entwerfen. | Aufnahme sowie Audioverarbeitungsprogramme | Idee für Durchführung mit CAMPLA/Lernstick |
+| **Hochschule für Gestaltung und Kunst** | Studierende der Hochschule für Gestaltung und Kunst können gezielt Bildmaterial bearbeiten und weiterentwickeln. | Bildverarbeitungs-programme | Idee für Durchführung mit CAMPLA/Lernstick |
+| **Hochschule für Musik** | Studierende der Hochschule für Musik können passend zu einem Thema ein Jingle entwerfen. | Aufnahme- sowie Audioverarbeitungs-programme | Idee für Durchführung mit CAMPLA/Lernstick |
 
 **Projektverantwortliche**
 - Niklaus Lang (niklaus.lang@fhnw.ch)
