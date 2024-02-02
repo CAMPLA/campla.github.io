@@ -5,7 +5,7 @@ description: A complete system for the execution of digital exams
 
  <p align="center">
   <img src="/assets/images/logo-trans-128x128.png" style="margin-right:150px;"/>
-  <img src="/assets/images/lernstick.png" width="128"/>
+  <img src="/assets/images/lernstick_logo.svg" width="128"/>
 </p>
 
 
@@ -20,9 +20,9 @@ CAMPLA offers the possibility to take exams with or without documents. The stude
 
 Figure 1 shows the structure of the CAMPLA infrastructure. During an examination, the Lernstick is started on the students' devices which is a Linux based operating system. In this environment, students log in to CAMPLA via the web browser. After entering the code for their exam, they connect to a virtual computer in the cloud. This computer runs Windows with the required programs for the exam. This is also where the exam, the lecturer's exam materials, and the student's materials, if they have been pre-approved and uploaded, can be found.
 
-![Figure 1: system overview](/assets/images/studentExaminationSetupEng.png)
+![Figure 1: CAMPLA system overview](/assets/images/studentExaminationSetupEng.png)
 
-<span style="font-size: 8pt;color: gray">Abbildung 1: Systemlandschaft</span>
+<span style="font-size: 8pt;color: gray">Figure 1: CAMPLA system overview</span>
 
 
 The setup of the CAMPLA infrastructure in connection with the Lernstick serves to prevent fraud attempts. The connection to the Internet can be individually configured or fully disabled. This significantly hinders digital communication between students. By signing the files after the completion of an exam, the recourse security of the exam is ensured. In addition, work is being done on the possibility of securing the examination system used through the integrated security chip (TPM). This procedure is called Remote Attestation and ensures that the examination system started has not been tampered with. This again makes cheating during an exam much more difficult.
@@ -32,7 +32,7 @@ The setup of the CAMPLA infrastructure in connection with the Lernstick serves t
 | University | Competences | Tools/LMS | State |
 | ---------- | ------------ | --------- | ----- |
 | **School of Economics** | Economics students learn how to deal with data, can analyze them with suitable tools for business analysis and make data-driven decisions. | Power Bi, Excel | Already conducted with CAMPLA/Lernstick |
-| **School of Life Science** | Students in the School of Life Science can take pictures from a microscope and other imaging techniques and evaluate them. | Matlab, Moodle | Already conducted with CAMPLA/Lernstick |
+| **School of Life Sciences** | Students in the School of Life Sciences can take pictures from a microscope and other imaging techniques and evaluate them. | Matlab, Moodle | Already conducted with CAMPLA/Lernstick |
 | **School of Education** | Students of the School of Education can take reading, listening and and speech comprehension tests at their own pace (i.e. asynchronous start/stop of audio and video sequences).| Moodle (reading, speaking, listening) | Already conducted with CAMPLA/Lernstick |
 | **School of Engineering** | Engineering students can model real electronic circuits and simulate them. | Matlab, Scilab | Already conducted with CAMPLA/Lernstick |
 | **Academy of Art and Design** | Students of the Academy of Art and Design can create specifically image material and develop them further. | Image manipulation software | Idea for CAMPLA/Lernstick |
@@ -55,7 +55,8 @@ The setup of the CAMPLA infrastructure in connection with the Lernstick serves t
 - Cinzia Garcia (cinzia.garcia@fhnw.ch)
 
 **Additional Links**
-- [More information about Lernstick (only in German)](https://lernstick.ch)
+- [More information about Lernstick (mostly in German)](https://lernstick.ch)
+- [Blogpost about CAMPLA/Lernstick in Hochschulforum Digitalisierung (only in German)](https://hochschulforumdigitalisierung.de/de/blog/campla-lernstick)
 - [CAMPLA SWITCHtube Channel (only in German)](https://tube.switch.ch/channels/65fa27a6)
 
 **Inquiries**
