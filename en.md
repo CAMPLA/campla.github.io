@@ -34,7 +34,7 @@ The setup of the CAMPLA infrastructure in connection with the Lernstick serves t
 | **School of Economics** | Economics students learn how to deal with data, can analyze them with suitable tools for business analysis and make data-driven decisions. | Power Bi, Excel | Already conducted with CAMPLA/Lernstick |
 | **School of Life Sciences** | Students in the School of Life Sciences can take pictures from a microscope and other imaging techniques and evaluate them. | Matlab, Moodle | Already conducted with CAMPLA/Lernstick |
 | **School of Education** | Students of the School of Education can take reading, listening and and speech comprehension tests at their own pace (i.e. asynchronous start/stop of audio and video sequences).| Moodle (reading, speaking, listening) | Already conducted with CAMPLA/Lernstick |
-| **School of Engineering** | Engineering students can model real electronic circuits and simulate them. | Matlab, Scilab | Already conducted with CAMPLA/Lernstick |
+| **School of Engineering** | Engineering students can model real electronic circuits and simulate them.  Students can be tested on programming with Java or Python. | Matlab, Scilab  OpenJDK, IntelliJ, Visual Studio Code resp. Anaconda, Spyder, Jupyter, Visual Studio Code | Already conducted with CAMPLA/Lernstick |
 | **Academy of Art and Design** | Students of the Academy of Art and Design can create specifically image material and develop them further. | Image manipulation software | Idea for CAMPLA/Lernstick |
 | **Academy of Music** | Students of the Academy of Music can compose a fitting jingle to a specific theme | Audio recording and processing software | Idea for CAMPLA/Lernstick |
 
